@@ -1,6 +1,4 @@
 # Welcome !
-Main reason why I coded this game is just making some practices about OOP.
-============================================
 
 In this game, there are 5 maps and 3 cars. First of all, enter your name and choose your car like that:
 
@@ -13,3 +11,5 @@ After, choose the map you want and race in there! Press 'f' to get results and e
 ![](https://i.stack.imgur.com/QlyeE.png)
 
 ![](https://i.stack.imgur.com/nIncK.png)
+
+Note: Main reason why I coded this game is just making some practices about OOP.
